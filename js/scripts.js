@@ -107,17 +107,4 @@ window.console.log(x/1);
 let x = 0;
 window.console.log(x <= 14);
 
-// STEP_22:
-let x = 15;
-window.console.log(x === 16);
 
-// STEP_23:
-let widget = new Object();
-window.console.log(typeof widget);
-
-// STEP_24:
-let widget = new Object();
-window.console.log(widget instanceof Object);
-
-// STEP_25:
-window.console.log(widget instanceof Car);
